@@ -1,15 +1,18 @@
-# Jupyter Notebook Kernals: Add, Change and Remove  
-
+# Jupyter Notebook Kernels: Add, Change and Remove
 
 ## Add Kernel
-```zsh
+
+```text
 python3.8 -m ipykernel install --user --name=python3
 ```
+
 `m` flag is the run module flag.
 
-## List Kernals
+## List Kernels
+
 Use `jupyter kernalspec list`
 
-## Remove Kernal
+## Remove Kernel
+
 Use `jupyter kernalspec remove KERNEL_NAME`
 

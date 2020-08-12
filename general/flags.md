@@ -1,7 +1,10 @@
 # Flags
 
-### `U` flag
-Update if already exites. e.g.
-```zsh
+## `U` flag
+
+Update if already exited. e.g.
+
+```text
 python -m pip install -U MODULE1 MODULE2
 ```
+
