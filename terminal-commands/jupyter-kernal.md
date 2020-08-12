@@ -1,4 +1,8 @@
-# Jupyter Notebook Kernels: Add, Change and Remove
+---
+description: 'Add, Change and Remove'
+---
+
+# Jupyter Notebook Kernels
 
 ## Add Kernel
 
