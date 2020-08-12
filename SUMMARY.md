@@ -1,7 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [General](general/README.md)
-  * [Flags](general/flags.md)
-  * [Jupyter Notebook Kernels: Add, Change and Remove](general/jupyter-kernal.md)
+* [Introduction](README.md)
+
+## Terminal Commands
+
+* [Flags](terminal-commands/flags.md)
+* [Jupyter Notebook Kernels: Add, Change and Remove](terminal-commands/jupyter-kernal.md)
 
