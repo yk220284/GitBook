@@ -2,7 +2,7 @@
 
 ### Simple Example
 
-Creating a simple generator that returns crc of a list of integers
+Creating a simple generator that returns crc\(cyclic redundancy check\) calculations of a list of integers
 
 ```python
 from zlib import crc32
