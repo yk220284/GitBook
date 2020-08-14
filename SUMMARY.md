@@ -9,6 +9,8 @@
 
 ## Basics
 
+* [Scikit-Learn](basics/scikit-learn.md)
+* [Pandas](basics/pandas.md)
 * [Generators](basics/generators.md)
 
 ## ERROR and Solutions
