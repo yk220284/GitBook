@@ -12,6 +12,8 @@ All the estimator's **hyperparameters** are accessible via public instance varia
 
 ###  Transformer
 
+e.g. `OneHotEncoder`
+
 Some **estimators** can also **transform** dataset hence also **transformers**.
 
 A `transform()` method takes a dataset as a parameter and returns the transformed dataset. This process depends on the learned parameters. 

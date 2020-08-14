@@ -1,22 +1,34 @@
----
-description: 'Add, Change and Remove'
----
+# Jupyter Notebook
 
-# Jupyter Notebook Kernels
+## Kernels
 
-## Add Kernel
+Add, Change and Remove
+
+### Add Kernel
 
 ```text
 python3.8 -m ipykernel install --user --name=python3
 ```
 
-`m` flag is the run module flag.
+The`m` flag is the run module flag.
 
-## List Kernels
+### List Kernels
 
 Use `jupyter kernelspec list`
 
-## Remove Kernel
+### Remove Kernel
 
 Use `jupyter kernelspec remove KERNEL_NAME`
+
+
+
+## Help
+
+Use `?` \(available in ipython\) which has the same effect of `help()`. e.g. 
+
+```python
+np.c_?
+```
+
+
 
