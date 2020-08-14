@@ -14,7 +14,7 @@ All the estimator's **hyperparameters** are accessible via public instance varia
 
 Some **estimators** can also **transform** dataset hence also **transformers**.
 
-`transform()` method takes a dataset as a parameter and returns the transformed dataset. This process depends on the learned parameters. 
+A `transform()` method takes a dataset as a parameter and returns the transformed dataset. This process depends on the learned parameters. 
 
 Transformers also have a convenient method`fit_transform()`with optimisations. 
 
