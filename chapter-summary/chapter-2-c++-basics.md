@@ -1,17 +1,13 @@
 # Chapter 2 C++ Basics
-
-{% tabs %}
-{% tab title="C++" %}
-```cpp
-if (Boolean_Expression)
-    Yes_Statement
-else
-    No_Statement
-```
-{% endtab %}
-{% endtabs %}
-
 1. _single_ bolean statment \(pg 109\) in cpp doesn't require `{}`
+    
+    ```cpp
+    if (Boolean_Expression)
+        Yes_Statement
+    else
+        No_Statement
+    ```
+    
 2. `do-while` loop \(pg 119\)
 
    ```cpp
