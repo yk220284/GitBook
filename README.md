@@ -1,4 +1,8 @@
 # Introduction
 
-This is my study notes for interesting things encountered while I am working with Python.
+Study notes of the book **Problem Solving with C++** _**\(10th edition\)**._
+
+\_\_
+
+\_\_
 
